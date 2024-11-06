@@ -68,9 +68,5 @@ public class Shot : MonoBehaviour
         transform.position = forward;
         transform.position += up;
         transform.position += defaultPos;
-
-        Debug.Log($"forward: {transform.forward}");
-        Debug.Log($"right: {transform.right}");
-        Debug.Log($"up: {transform.up}");
     }
 }

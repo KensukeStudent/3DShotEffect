@@ -51,6 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ShotEffect.sln",
+    "dotnet.defaultSolution": "3DShotEffect.sln",
     "dotnet.preferCSharpExtension": true
 }
